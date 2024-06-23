@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import watermark from "watermarkjs";
 import Kofi from "./kofi";
-import Messenger from "./messenger";
 class MainComponent extends Component {
   constructor(props) {
     super(props);
